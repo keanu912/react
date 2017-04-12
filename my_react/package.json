@@ -2,7 +2,9 @@
   "name": "my_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://keanu912.github.io/react/my_react/build",
   "dependencies": {
+    "normalize.css": "^6.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
